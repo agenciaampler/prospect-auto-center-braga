@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina mecânica no Santa Quitéria",
+    "hero_line": "Seu carro cuidado por quem entende, com orçamento claro e atendimento direto no WhatsApp.",
+    "services_headline": "Serviços para o dia a dia do seu carro",
+    "services_intro": "Atendemos Fiat, Chevrolet, Volkswagen, Renault e outras marcas populares. Diagnóstico honesto e preço combinado antes do serviço.",
+    "split_headline": "Orçamento sem enrolação, direto no WhatsApp",
+    "confidence_headline": "Por que motoristas de Curitiba confiam na gente",
+    "location_headline": "Fácil de chegar, no Santa Quitéria em Curitiba",
+    "steps_headline": "Como funciona o atendimento",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Luz acesa no painel ou barulho estranho? Fazemos a leitura e explicamos o problema antes de qualquer serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e buchas. Peças de qualidade e revisão completa do conjunto.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros e checagem geral. Evite surpresas e mantenha o carro em dia para rodar tranquilo.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento transparente",
+            "body": "Você aprova o valor antes. Sem serviço extra sem avisar e sem surpresa na hora de pagar.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Experiência com carros populares",
+            "body": "Fiat, VW, Chevrolet, Renault, Hyundai e mais. Conhecemos os problemas comuns de cada modelo.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Atendimento rápido no WhatsApp",
+            "body": "Mande uma mensagem, descreva o problema e receba retorno com orientação e horário para levar o carro.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar horário?",
+            "answer": "O ideal é chamar no WhatsApp antes. Assim garantimos o atendimento no melhor horário e agilizamos o serviço."
+        },
+        {
+            "question": "Quais marcas de carro vocês atendem?",
+            "answer": "Trabalhamos com Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan, entre outras marcas populares."
+        },
+        {
+            "question": "O orçamento é cobrado?",
+            "answer": "Você recebe a avaliação e o valor antes de aprovar. Nada é feito sem sua autorização. Fale com a gente no WhatsApp."
+        },
+        {
+            "question": "Onde fica a oficina?",
+            "answer": "Na R. João Alencar Guimarães, 1118, Santa Quitéria, Curitiba. Fácil acesso para toda a região metropolitana."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Frente da oficina em dia claro e seco em Curitiba, carro popular em primeiro plano, enquadramento vertical com respiro superior para texto, sem placas ou logos.",
+        "hero_desktop": "Mecânico de meia-idade sorrindo ao lado de carro popular no elevador, luz natural de dia claro, composição horizontal com área limpa à esquerda para copy.",
+        "service_1": "Close das mãos de um mecânico usando scanner de diagnóstico no painel, interior iluminado por luz do dia, foco nítido, sem marcas visíveis.",
+        "service_2": "Detalhe de troca de pastilha de freio com roda removida, ferramentas organizadas, ambiente limpo e claro, recorte quadrado que funciona em mobile.",
+        "trust": "Cliente mulher recebendo a chave do carro do mecânico, aperto de mão, dia ensolarado, pessoas visivelmente diferentes das demais fotos, sem uniformes com logo.",
+        "og_image": "Fachada da oficina com carro popular estacionado, céu azul de dia seco em Curitiba, composição 1200x630 com espaço central limpo, sem placas legíveis."
+    },
+    "quality_checks": [
+        "Contraste AA validado: azul #0F4C81 sobre branco e amarelo #F4C430 apenas em detalhes, nunca como fundo de texto branco.",
+        "CTA de WhatsApp fixo no rodapé mobile com área de toque mínima de 48px e link wa.me com mensagem pré-preenchida.",
+        "Schema LocalBusiness/AutoRepair com endereço, geo, horário, avaliação 4.4 (187 reviews) e FAQPage; linguagem estruturada para buscadores e IAs, sem promessa de posicionamento."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:34:55-03:00"
+}
